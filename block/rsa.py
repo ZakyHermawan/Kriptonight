@@ -19,10 +19,4 @@ class RSA:
         
         m = int.from_bytes(msg)
         return pow(m, self.e, self.n)
-
-if __name__ == '__main__':
-    rsa = RSA()
-    rsa.encrypt(b"asd")
-
-
     
