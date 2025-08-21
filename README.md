@@ -1,7 +1,5 @@
 # Kriptonight
 Cryptography library
 ====================
-
-feel free to contribute
-
+Cryptography algorithms using python
 
